@@ -1,0 +1,2 @@
+# Aprendendo Kotlin
+Este é um projeto de app para Android que faz o gerenciamento de Indice de Massa Corpóres(IMC) de pessoas. Este projeto foi desenvolvido na disciplica de **Linguagem de programação III** com os objetivos de praticar e avaliar o conhecimento adiquirido. (2017)
